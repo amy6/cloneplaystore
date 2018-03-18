@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Google Play</string>
+    <string name="search">Search</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="home">Home</string>
+    <string name="games">Games</string>
+    <string name="movies">Movies</string>
+    <string name="music">Music</string>
+    <string name="books">Books</string>
+    <string name="newsstand">Newsstand</string>
+    <string name="family">Family</string>
+    <string name="earlyaccess">Early Access</string>
+    <string name="editorschoice">Editor\'s Choice</string>
+    <string name="categories">Categories</string>
+    <string name="foryou">For You</string>
+    <string name="topcharts">Top Charts</string>
+    <string name="app_image">App Image</string>
+    <string name="button_more">More</string>
+    <string name="free_app">Free</string>
+    <string name="mb">" MB"</string>
+
+
+    <string name="game_apps">New + Updated Games</string>
+    <string name="recentActivity_apps">Based on Your Recent Activity</string>
+    <string name="recommended_apps">Recommended For You</string>
+    <string name="updated_apps">New + Updated Apps</string>
+
+
+    <string name="candycrush">Candy Crush</string>
+    <string name="templerun2">Temple Run 2</string>
+    <string name="subwaysurfers">Subway Surfers</string>
+    <string name="logoquizworld">Logo Quiz World</string>
+    <string name="udacity">Udacity</string>
+    <string name="sololearn">Solo Learn</string>
+    <string name="productivitychallengetimer">Productivity Challenge Timer</string>
+    <string name="youtube">Youtube</string>
+    <string name="stackoverflow">Stackoverflow</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="makemytrip">Make My Trip</string>
+    <string name="tripadvisor">Trip Advisor</string>
+    <string name="slack">Slack</string>
+    <string name="kindle">Kindle</string>
+    <string name="hike">Hike</string>
+    <string name="googleplaybooks">Google Play Books</string>
+    <string name="amazon">Amazon</string>
+    <string name="trellotimetracker">Trello Time Tracker</string>
+    <string name="rivercrossing">River Crossing</string>
+    <string name="zenkoi2">Zen Koi 2</string>
+    <string name="camscanner">Cam Scanner</string>
+    <string name="duolingo">Duolingo</string>
+    <string name="game2048">2048</string>
+    <string name="googlemaps">Google Maps</string>
+    <string name="wordpress">Word Press</string>
+    <string name="olacabs">Ola Cabs</string>
+    <string name="instagram">Instagram</string>
+    <string name="logicmaster">Logic Master</string>
+
+
+    <string-array name="categories">
+        <item>@string/game_apps</item>
+        <item>@string/recentActivity_apps</item>
+        <item>@string/recommended_apps</item>
+        <item>@string/updated_apps</item>
+    </string-array>
+
+    <string name="vertical_ellipsis">&#8942;</string>
+
+</resources>

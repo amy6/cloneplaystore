@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_view_inset">8dp</dimen>
+    <dimen name="padding_margin_small">8dp</dimen>
+    <dimen name="padding_margin_min">4dp</dimen>
+    <dimen name="padding_margin_medium">16dp</dimen>
+    <dimen name="image_width">100dp</dimen>
+    <dimen name="image_height">120dp</dimen>
+    <dimen name="textsize_small">12sp</dimen>
+    <dimen name="padding_margin_low">2dp</dimen>
+    <dimen name="tablayout_searchbar_height">60dp</dimen>
+</resources>
